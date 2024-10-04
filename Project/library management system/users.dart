@@ -3,7 +3,7 @@ import 'library.dart';
 
 class User{
   String name;
-  String userId;
+  int userId;
 
   User(this.name,this.userId);
 
